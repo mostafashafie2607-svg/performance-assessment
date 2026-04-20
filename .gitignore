@@ -1,0 +1,5 @@
+gatling-assessment/target/
+*.log
+*.class
+.idea/
+.vscode/
